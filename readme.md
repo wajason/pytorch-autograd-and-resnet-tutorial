@@ -1,8 +1,5 @@
 # 🚀 PyTorch Autograd & ResNet Tutorial
 
-[![Stars](https://img.shields.io/github/stars/yourname/yourrepo?style=social)](https://github.com/yourname/yourrepo/stargazers)
-[![License](https://img.shields.io/github/license/yourname/yourrepo)](LICENSE)
-
 This repository is a **hands-on deep learning tutorial** that takes you from **PyTorch Autograd basics** to building **CNNs and ResNet** for **CIFAR-10 classification**.
 
 It’s designed for learners who want to **understand how PyTorch really works under the hood** instead of just calling high-level APIs.  
@@ -47,3 +44,4 @@ Learn ConvNet internals (weights, bias, forward pass)
 Understand skip connections & why ResNet works
 
 Gain hands-on experience building deep CNNs from scratch
+
