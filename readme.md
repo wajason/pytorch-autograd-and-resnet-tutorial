@@ -17,7 +17,6 @@ Every block is implemented step by step — from barebone tensor ops to modular 
 ---
 
 ## 📂 Project Structure
-.
 ```bash
 ├── helper.py # Utility functions for training/evaluation
 ├── pytorch_autograd_and_nn.py # Core implementations of CNN & ResNet
@@ -35,6 +34,7 @@ Clone this repo and run the notebook:
 git clone https://github.com/wajason/pytorch-autograd-and-resnet-tutorial.git
 cd pytorch-autograd-and-resnet-tutorial
 jupyter notebook "Pytorch Autograd and NN.ipynb"
+```
 
 ## 🎯 Learning Goals
 Deep dive into PyTorch Autograd
@@ -44,4 +44,5 @@ Learn ConvNet internals (weights, bias, forward pass)
 Understand skip connections & why ResNet works
 
 Gain hands-on experience building deep CNNs from scratch
+
 
