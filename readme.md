@@ -37,12 +37,10 @@ jupyter notebook "Pytorch Autograd and NN.ipynb"
 ```
 
 ## 🎯 Learning Goals
-Deep dive into PyTorch Autograd
+ 1. Deep dive into PyTorch Autograd
+ 2. Learn ConvNet internals (weights, bias, forward pass)
+ 3. Understand skip connections & why ResNet works
+ 4. Gain hands-on experience building deep CNNs from scratch
 
-Learn ConvNet internals (weights, bias, forward pass)
-
-Understand skip connections & why ResNet works
-
-Gain hands-on experience building deep CNNs from scratch
 
 
